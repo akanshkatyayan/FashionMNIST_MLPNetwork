@@ -9,6 +9,7 @@ Classify every image in terms of 1 out of the 10 classes
 ## Dataset
 
 Title: MNIST Fashion Dataset
+
 ![image](https://user-images.githubusercontent.com/35501313/170054782-72c299ea-9602-4e69-a36d-251af208584a.png)
 
 **Training Data:** 60,000 Images
